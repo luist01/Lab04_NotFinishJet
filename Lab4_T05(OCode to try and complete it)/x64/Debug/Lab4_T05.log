@@ -1,0 +1,3 @@
+﻿  Lab4_T05.cpp
+C:\Users\luist\Desktop\CSCI\Lab4_T05\Lab4_T05.cpp(92,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab4_T05.vcxproj -> C:\Users\luist\Desktop\CSCI\Lab4_T05\x64\Debug\Lab4_T05.exe
